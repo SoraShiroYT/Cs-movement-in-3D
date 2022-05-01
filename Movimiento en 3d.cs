@@ -1,5 +1,3 @@
-using UnityEngine;
- using System.Collections;
 
   private void Update() {
          Rigidbody rb = GetComponent<Rigidbody>();
